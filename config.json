@@ -1,0 +1,13 @@
+{
+    "func": "return new Complex(Math.abs(z.a), Math.abs(z.b)).square().add(c)",
+    "vary": "c",
+    "amin": -2,
+    "bmin": -2,
+    "amax": 2,
+    "bmax": 2,
+    "maxiterations": 80,
+    "escaperadius": 1000,
+    "height": 3000,
+    "width": 3000,
+    "filename": "example_output/test3"
+}

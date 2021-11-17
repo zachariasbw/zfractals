@@ -1,0 +1,23 @@
+{
+  "name": "zfractals",
+  "version": "1.0.0",
+  "description": "fractal generator",
+  "main": "zfractals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachariasbw/zfractals.git"
+  },
+  "author": "zachariasbw",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/zachariasbw/zfractals/issues"
+  },
+  "homepage": "https://github.com/zachariasbw/zfractals#readme",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "yargs": "^17.2.1"
+  }
+}
